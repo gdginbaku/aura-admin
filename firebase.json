@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "auradmin",
+    "site": "manage-gdgbaku",
     "public": "dist",
     "ignore": [
       "firebase.json",
